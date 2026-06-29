@@ -1,9 +1,5 @@
 # Web-programozás 1 - Előadás Beadandó
 
-## Csapattagok és munkamegosztás
-
-- Budai Lili GVLRPX
-- Soltész-Kéri Gábor János D0345Y
 
 ## Alkalmazás felépítése
 
